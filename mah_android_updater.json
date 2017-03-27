@@ -1,9 +1,9 @@
 {
     "is_run_mode":"true",
     "name":"MAHAndroidUpdaterSample",
-    "uri_current":"com.mobapphome.mahandroidupdater.sample",
-    "version_code_current":"10",
-    "version_code_min":"9",
-    "update_info":"Bugs fixed",
-    "update_date":"22/12/2016"
+    "uri_current":"com.stackkedteam.feedshare",
+    "version_code_current":"41",
+    "version_code_min":"40",
+    "update_info":"On version 1.0 we added many new features.",
+    "update_date":"22/03/2017"
 }
