@@ -1,5 +1,6 @@
 {
   "latestVersion": "2.16",
+    "latestVersionCode": 45,
   "url": "https://play.google.com/store/apps/details?id=com.stackkedteam.feedshare",
   "releaseNotes": [
     "1. Added image compression so uploading images are now way faster.",
